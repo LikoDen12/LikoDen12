@@ -15,24 +15,21 @@ Unity-разработчик с 2 годами опыта, работал над
 ## Проекты
 
 ### 1. Multiplayer 1v1 game
-- Веб-игра с очками и чатом  
-- Интеграция VK API для получения данных пользователя  
-- Цель: обогнать соперника по очкам  
-- Репозиторий: [link]  
-- Демо: [link]
+[![Видео геймплея](https://img.youtube.com/vi/ctWJjXYJH_s/maxresdefault.jpg)](https://youtube.com/shorts/ctWJjXYJH_s)  
+Веб-игра с очками и чатом  
+Интеграция VK API для получения данных пользователя  
+Цель: обогнать соперника по очкам
 
 ### 2. Roguelike
-- Проект за неделю  
-- Сбор мечей, прохождение уровней, победа над врагами  
-- Платформа: Yandex Games  
-- Репозиторий: [link]  
-- Демо: [link]
+[![Видео геймплея](https://img.youtube.com/vi/xyufN2I-KPc/maxresdefault.jpg)](https://youtube.com/shorts/xyufN2I-KPc)  
+Проект за неделю  
+Сбор мечей, прохождение уровней, победа над врагами  
+Платформа: Yandex Games
 
 ### 3. Merge battle game
-- Соединяем юнитов и идем в атаку  
-- Платформа: Yandex Games  
-- Репозиторий: [link]  
-- Демо: [link]
+[![Видео геймплея](https://img.youtube.com/vi/xySSuAQ7j3s/maxresdefault.jpg)](https://youtube.com/shorts/xySSuAQ7j3s)  
+Соединяем юнитов и идем в атаку  
+Платформа: Yandex Games
 
 ## Контакты
 - Email: your@email.com  
@@ -58,24 +55,21 @@ Open to all opportunities: full-time, part-time, freelance, contract.
 ## Projects
 
 ### 1. Multiplayer 1v1 game
-- Web game with points and chat  
-- VK API integration for user data  
-- Goal: outscore your opponent  
-- Repo: [link]  
-- Demo: [link]
+[![Gameplay video](https://img.youtube.com/vi/ctWJjXYJH_s/maxresdefault.jpg)](https://youtube.com/shorts/ctWJjXYJH_s)  
+Web game with points and chat  
+VK API integration for user data  
+Goal: outscore your opponent
 
 ### 2. Roguelike
-- One-week project  
-- Collect swords, complete levels, defeat enemies  
-- Platform: Yandex Games  
-- Repo: [link]  
-- Demo: [link]
+[![Gameplay video](https://img.youtube.com/vi/xyufN2I-KPc/maxresdefault.jpg)](https://youtube.com/shorts/xyufN2I-KPc)  
+One-week project  
+Collect swords, complete levels, defeat enemies  
+Platform: Yandex Games
 
 ### 3. Merge battle game
-- Merge units and attack  
-- Platform: Yandex Games  
-- Repo: [link]  
-- Demo: [link]
+[![Gameplay video](https://img.youtube.com/vi/xySSuAQ7j3s/maxresdefault.jpg)](https://youtube.com/shorts/xySSuAQ7j3s)  
+Merge units and attack  
+Platform: Yandex Games
 
 ## Contact
 - Email: your@email.com  
