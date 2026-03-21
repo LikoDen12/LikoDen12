@@ -1,97 +1,103 @@
-# 👋 Привет! Я Денис — Unity-разработчик
+# Денис Орлов  
+### Unity Developer
 
-Unity-разработчик с 2 годами коммерческого опыта. Создаю игры под **WebGL (Yandex Games)**, адаптирую проекты, работаю с мультиплеером, API и оптимизацией.  
-Открыт к любым предложениям: full-time, part-time, фриланс, контракт.
-
----
-
-## 🛠️ Навыки
-
-- **Unity** (2D/3D, WebGL)
-- **C#**, ScriptableObjects, Object Pooling
-- **Модульная архитектура**, SOLID
-- **Мультиплеер**: Photon, Mirror
-- **Интеграции**: VK API, Firebase (Remote Config, DB, Analytics)
-- **Save системы**: PlayerPrefs + облачные решения
-- **Платформы**: Yandex Games, Google Play, WebGL
+2 года коммерческой разработки.  
+Специализация: WebGL, Yandex Games, мультиплеер (бывший опыт), интеграции API, архитектура.  
+Открыт к любым предложениям — full-time, part-time, фриланс, контракт.
 
 ---
 
-## 🎮 Проекты
+## Навыки
 
-### 1. Multiplayer 1v1 game  
-[![Видео геймплея](https://img.youtube.com/vi/ctWJjXYJH_s/maxresdefault.jpg)](https://youtube.com/shorts/ctWJjXYJH_s)  
-Веб-игра с системой очков и чатом.  
-**Интеграция VK API** для получения данных пользователя.  
-Цель — обогнать соперника по очкам в реальном времени.
-
----
-
-### 2. Roguelike  
-[![Видео геймплея](https://img.youtube.com/vi/xyufN2I-KPc/maxresdefault.jpg)](https://youtube.com/shorts/xyufN2I-KPc)  
-Недельный проект: сбор мечей, прохождение уровней, победа над врагами.  
-Платформа: **Yandex Games**.
+▸ Unity (2D/3D, WebGL)  
+▸ C#, ScriptableObjects, Object Pooling  
+▸ Модульная архитектура, SOLID  
+▸ Photon, Mirror  
+▸ VK API, Firebase (Remote Config, DB, Analytics)  
+▸ Save системы (PlayerPrefs + облако)  
+▸ Адаптация под Yandex Games, Google Play
 
 ---
 
-### 3. Merge battle game  
-[![Видео геймплея](https://img.youtube.com/vi/xySSuAQ7j3s/maxresdefault.jpg)](https://youtube.com/shorts/xySSuAQ7j3s)  
-Соединяй юнитов и атакуй врага.  
-Платформа: **Yandex Games**.
+## Проекты
+
+### 1. «Шарики» (Arkanoid-like)
+[![Видео](https://img.youtube.com/vi/ctWJjXYJH_s/maxresdefault.jpg)](https://youtube.com/shorts/ctWJjXYJH_s)
+
+Динамичная аркадная игра. Управляй платформой, отбивай шарик, уничтожай блоки и набирай очки.
 
 ---
 
-## 📫 Контакты
+### 2. Roguelike
+[![Видео](https://img.youtube.com/vi/xyufN2I-KPc/maxresdefault.jpg)](https://youtube.com/shorts/xyufN2I-KPc)
 
-- **Telegram:** [@Den1sD3w](https://t.me/Den1sD3w)  
-- **Email:** [densorlov94@gmail.com](mailto:densorlov94@gmail.com)
-
----
-
-# 👋 Hi! I'm Denis — Unity Developer
-
-Unity developer with 2 years of commercial experience. I build games for **WebGL (Yandex Games)**, adapt projects, and work with multiplayer, APIs, and optimization.  
-Open to all opportunities: full-time, part-time, freelance, contract.
+Недельный проект: собирай мечи, проходи уровни, побеждай врагов.  
+Платформа: **Yandex Games**
 
 ---
 
-## 🛠️ Skills
+### 3. Merge battle game
+[![Видео](https://img.youtube.com/vi/xySSuAQ7j3s/maxresdefault.jpg)](https://youtube.com/shorts/xySSuAQ7j3s)
 
-- **Unity** (2D/3D, WebGL)
-- **C#**, ScriptableObjects, Object Pooling
-- **Modular architecture**, SOLID
-- **Multiplayer**: Photon, Mirror
-- **Integrations**: VK API, Firebase (Remote Config, DB, Analytics)
-- **Save systems**: PlayerPrefs + cloud solutions
-- **Platforms**: Yandex Games, Google Play, WebGL
+Соединяй юнитов, чтобы атаковать врага.  
+Платформа: **Yandex Games**
 
 ---
 
-## 🎮 Projects
+## Контакты
 
-### 1. Multiplayer 1v1 game  
-[![Gameplay video](https://img.youtube.com/vi/ctWJjXYJH_s/maxresdefault.jpg)](https://youtube.com/shorts/ctWJjXYJH_s)  
-Web game with a scoring system and chat.  
-**VK API integration** to fetch user data.  
-Goal: outscore your opponent in real time.
+✉️ [densorlov94@gmail.com](mailto:densorlov94@gmail.com)  
+💬 [t.me/Den1sD3w](https://t.me/Den1sD3w)
 
 ---
 
-### 2. Roguelike  
-[![Gameplay video](https://img.youtube.com/vi/xyufN2I-KPc/maxresdefault.jpg)](https://youtube.com/shorts/xyufN2I-KPc)  
+# Denis Orlov  
+### Unity Developer
+
+2 years of commercial experience.  
+Focus: WebGL, Yandex Games, multiplayer (previous), API integrations, architecture.  
+Open to any offers — full-time, part-time, freelance, contract.
+
+---
+
+## Skills
+
+▸ Unity (2D/3D, WebGL)  
+▸ C#, ScriptableObjects, Object Pooling  
+▸ Modular architecture, SOLID  
+▸ Photon, Mirror  
+▸ VK API, Firebase (Remote Config, DB, Analytics)  
+▸ Save systems (PlayerPrefs + cloud)  
+▸ Adaptation for Yandex Games, Google Play
+
+---
+
+## Projects
+
+### 1. «Balls» (Arkanoid-like)
+[![Video](https://img.youtube.com/vi/ctWJjXYJH_s/maxresdefault.jpg)](https://youtube.com/shorts/ctWJjXYJH_s)
+
+Fast-paced arcade game. Control the paddle, bounce the ball, destroy blocks and score points.
+
+---
+
+### 2. Roguelike
+[![Video](https://img.youtube.com/vi/xyufN2I-KPc/maxresdefault.jpg)](https://youtube.com/shorts/xyufN2I-KPc)
+
 One-week project: collect swords, complete levels, defeat enemies.  
-Platform: **Yandex Games**.
+Platform: **Yandex Games**
 
 ---
 
-### 3. Merge battle game  
-[![Gameplay video](https://img.youtube.com/vi/xySSuAQ7j3s/maxresdefault.jpg)](https://youtube.com/shorts/xySSuAQ7j3s)  
-Merge units and attack the enemy.  
-Platform: **Yandex Games**.
+### 3. Merge battle game
+[![Video](https://img.youtube.com/vi/xySSuAQ7j3s/maxresdefault.jpg)](https://youtube.com/shorts/xySSuAQ7j3s)
+
+Merge units to attack the enemy.  
+Platform: **Yandex Games**
 
 ---
 
-## 📫 Contact
+## Contact
 
-- **Telegram:** [@Den1sD3w](https://t.me/Den1sD3w)  
-- **Email:** [densorlov94@gmail.com](mailto:densorlov94@gmail.com)
+✉️ [densorlov94@gmail.com](mailto:densorlov94@gmail.com)  
+💬 [t.me/Den1sD3w](https://t.me/Den1sD3w)
