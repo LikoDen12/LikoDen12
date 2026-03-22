@@ -1,4 +1,4 @@
-# Денис Орлов  
+# Денис  
 ### Unity Developer
 
 2 года коммерческой разработки.  
@@ -51,7 +51,7 @@
 
 ---
 
-# Denis Orlov  
+# Denis  
 ### Unity Developer
 
 2 years of commercial experience.  
